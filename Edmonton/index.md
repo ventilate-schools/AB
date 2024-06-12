@@ -29,7 +29,7 @@ The above is a comparison of EPSB and the Calgary School Board. EPSB recieved HE
 
 ## Catholic Schools
 
-There has been similar work done for Catholic schools in Edmonton, and we're trying to find out details to post here.
+There has been similar work done for Catholic schools in Edmonton, and we're trying to find out details to post here. The filters purchased are MERV13 instead of HEPA, [as described here](https://www.ecsd.net/strengthening-ventilation-in-schools)
 
 {% include_relative grade.html %}
 
