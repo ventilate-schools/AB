@@ -8,6 +8,13 @@ title: Schools in Edmonton
 
 # Schools in Edmonton
 
+Concering both Public and Catholic schools in Edmonton:
+
+* [CBC: Edmonton school divisions take steps to upgrade ventilation as students return](https://www.cbc.ca/news/canada/edmonton/edmonton-school-divisions-take-steps-to-upgrade-ventilation-as-students-return-1.6308140) - Jan 2022, CBC talks about ventilation work for 
+* [Edmonton school divisions take steps to upgrade ventilation as students return](https://ca.news.yahoo.com/edmonton-school-divisions-steps-upgrade-001800745.html) - Jan 2022
+
+## Public Schools
+
 All classrooms have mechanical ventilation, most with MERV13. All classrooms (and rooms like libraries) have HEPA standalone units. None have PM2.5 or Co2 monitoring, as yet. We are not sure about classroom density but since almost all schools are over capacity, it is likely high.
 
 **In the media**
@@ -19,6 +26,10 @@ All classrooms have mechanical ventilation, most with MERV13. All classrooms (an
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">This is the monthly average of students absent due to any illness from EPSB vs CBE schools for the year of 2023. <a href="https://twitter.com/hashtag/yeg?src=hash&amp;ref_src=twsrc%5Etfw">#yeg</a> <a href="https://twitter.com/hashtag/yyc?src=hash&amp;ref_src=twsrc%5Etfw">#yyc</a> <a href="https://twitter.com/hashtag/edmonton?src=hash&amp;ref_src=twsrc%5Etfw">#edmonton</a> <a href="https://twitter.com/hashtag/calgary?src=hash&amp;ref_src=twsrc%5Etfw">#calgary</a> <a href="https://twitter.com/hashtag/epsb?src=hash&amp;ref_src=twsrc%5Etfw">#epsb</a> <a href="https://twitter.com/hashtag/cbe?src=hash&amp;ref_src=twsrc%5Etfw">#cbe</a> <a href="https://t.co/dGiGI0OxR7">pic.twitter.com/dGiGI0OxR7</a></p>&mdash; Kyra Markov (@KmarkovCTV) <a href="https://twitter.com/KmarkovCTV/status/1748085023792566385?ref_src=twsrc%5Etfw">January 18, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The above is a comparison of EPSB and the Calgary School Board. EPSB recieved HEPAs air-filtration and CSB did not. Otherwise they are quite similar districts, so we use them to show the difference that HEPAs makes in illness rates. When the lines converge on that chart its often because Calgary had days off that Edmonton did not. In those graphs you can always see a decline in illness rates following school days off.
+
+## Catholic Schools
+
+There has been similar work done for Catholic schools in Edmonton, and we're trying to find out details to post here.
 
 {% include_relative grade.html %}
 
