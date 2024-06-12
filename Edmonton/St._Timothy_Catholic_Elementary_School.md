@@ -22,6 +22,8 @@ title: St. Timothy Catholic Elementary School
 
 **Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
 
+**School's policy on Ventilation**: <https://www.ecsd.net/strengthening-ventilation-in-schools>
+
 **School's policy on Ventilation**: TODO
 
 **School's Ventilation Work Completion**: TODO

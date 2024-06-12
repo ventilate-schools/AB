@@ -2169,16 +2169,17 @@ def generate_markdown_by_index(row):
         file.write(f"# {row['school_name']} ({row['district_name']})\n\n")  # School Name and area as header
 
         # Loop through keys per school
+        t = ""
         for key, value in row.items():
-            t = ""
+
             if key not in ['district_name', 'school_name']:
                 if str(value).startswith("http"):
                     value = "<" + value + ">"
                 file.write(f"**{key.replace('_', ' ').title()}**: {value}\n\n")
                 if "ecsd" in str(value):
-                   t = "ecsd"
+                    t = "ecsd"
                 if "epsb" in str(value):
-                   t = "epsb"
+                    t = "epsb"
         file.write(f"**School's overall airborne virus protection grade (0-5)**: 0\n\n")
         file.write(f"**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO\n\n")
         if t == "ecsd":

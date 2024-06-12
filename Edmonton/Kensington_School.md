@@ -22,7 +22,7 @@ title: Kensington School
 
 **Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
 
-**School's policy on Ventilation**: TODO
+**School's policy on Ventilation**: <https://epsb.ca/schools/goingtoschool/schoolre-entry/>
 
 **School's Ventilation Work Completion**: TODO
 
