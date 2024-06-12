@@ -18,11 +18,11 @@ title: Mee-Yah-Noh School
 
 **Student Count**: TODO
 
-**School's overall airborne virus protection grade (0-5)**: 1
+**School's overall airborne virus protection grade (0-5)**: 2
 
 **Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
 
-**School's policy on Ventilation**: <https://epsb.ca/news/schools/improvementstoschoolventilation.html>
+**School's policy on Ventilation**: <https://files.epsb.ca/ventilation/149.pdf> for the school, within <https://epsb.ca/news/schools/improvementstoschoolventilation.html> for the district.
 
 **School's Ventilation Work Completion**: TODO
 
