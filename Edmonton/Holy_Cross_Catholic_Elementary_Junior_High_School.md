@@ -18,6 +18,8 @@ title: Holy Cross Catholic Elementary/Junior High School
 
 **Student Count**: TODO
 
+**School's overall airborne virus protection grade (0-5)**: 1
+
 **School's overall airborne virus protection grade (0-5)**: 0
 
 **Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO

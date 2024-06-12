@@ -2180,12 +2180,17 @@ def generate_markdown_by_index(row):
                     t = "ecsd"
                 if "epsb" in str(value):
                     t = "epsb"
-        file.write(f"**School's overall airborne virus protection grade (0-5)**: 0\n\n")
+        if t == "ecsd":
+            file.write(f"**School's overall airborne virus protection grade (0-5)**: 1\n\n")
+        if t == "epsb":
+            file.write(f"**School's overall airborne virus protection grade (0-5)**: 1\n\n")
+        else:
+            file.write(f"**School's overall airborne virus protection grade (0-5)**: 0\n\n")
         file.write(f"**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO\n\n")
         if t == "ecsd":
             file.write(f"**School's policy on Ventilation**: <https://www.ecsd.net/strengthening-ventilation-in-schools>\n\n")
         if t == "epsb":
-            file.write(f"**School's policy on Ventilation**: <https://epsb.ca/schools/goingtoschool/schoolre-entry/>\n\n")
+            file.write(f"**School's policy on Ventilation**: <https://epsb.ca/news/schools/improvementstoschoolventilation.html>\n\n")
         else:
             file.write(f"**School's policy on Ventilation**: TODO\n\n")
         file.write(f"**School's Ventilation Work Completion**: TODO\n\n")

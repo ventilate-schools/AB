@@ -18,11 +18,11 @@ title: Avonmore School
 
 **Student Count**: TODO
 
-**School's overall airborne virus protection grade (0-5)**: 0
+**School's overall airborne virus protection grade (0-5)**: 1
 
 **Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
 
-**School's policy on Ventilation**: <https://epsb.ca/schools/goingtoschool/schoolre-entry/>
+**School's policy on Ventilation**: <https://epsb.ca/news/schools/improvementstoschoolventilation.html>
 
 **School's Ventilation Work Completion**: TODO
 
