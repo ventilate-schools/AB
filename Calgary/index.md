@@ -1,0 +1,245 @@
+---
+layout: page
+title: Schools in Calgary
+---
+# Navigation
+
+[[All countries/states/provinces]](../..) > [[All B.C. districts]](..)
+
+# Schools in Calgary
+
+{% include_relative grade.html %}
+
+**Schools:**
+
+- [A. E. Cross School](A._E._Cross_School.md) grade 1
+- [Abbeydale School](Abbeydale_School.md) grade 1
+- [Acadia School](Acadia_School.md) grade 1
+- [Alexander Ferguson School](Alexander_Ferguson_School.md) grade 1
+- [Almadina Language Charter Academy](Almadina_Language_Charter_Academy.md) grade 0
+- [Andrew Sibbald School](Andrew_Sibbald_School.md) grade 1
+- [Annie Gale School](Annie_Gale_School.md) grade 1
+- [Arbour Lake School](Arbour_Lake_School.md) grade 1
+- [Ascension of Our Lord School](Ascension_of_Our_Lord_School.md) grade 1
+- [Bearspaw Christian School](Bearspaw_Christian_School.md) grade 0
+- [Beddington Heights School](Beddington_Heights_School.md) grade 1
+- [Belvedere Parkway School](Belvedere_Parkway_School.md) grade 1
+- [Bishop Carroll High School](Bishop_Carroll_High_School.md) grade 1
+- [Bishop Grandin High School](Bishop_Grandin_High_School.md) grade 1
+- [Blessed Cardinal Newman School](Blessed_Cardinal_Newman_School.md) grade 1
+- [Bob Edwards School](Bob_Edwards_School.md) grade 1
+- [Bowcroft School](Bowcroft_School.md) grade 1
+- [Branton School](Branton_School.md) grade 1
+- [Brentwood School](Brentwood_School.md) grade 1
+- [Briar Hill School](Briar_Hill_School.md) grade 1
+- [Buchanan School](Buchanan_School.md) grade 1
+- [Calgary Academy](Calgary_Academy.md) grade 0
+- [Calgary Arts Academy](Calgary_Arts_Academy.md) grade 0
+- [Calgary French & International School](Calgary_French_&_International_School.md) grade 0
+- [Calgary Girls' School](Calgary_Girls'_School.md) grade 0
+- [Calgary Islamic School](Calgary_Islamic_School.md) grade 0
+- [Calgary Science School](Calgary_Science_School.md) grade 0
+- [Calgary Waldorf School](Calgary_Waldorf_School.md) grade 0
+- [Cambrian Heights School](Cambrian_Heights_School.md) grade 1
+- [Captain John Palliser School](Captain_John_Palliser_School.md) grade 1
+- [Captain Nichola Goddard School](Captain_Nichola_Goddard_School.md) grade 1
+- [Cecil Swanson School](Cecil_Swanson_School.md) grade 1
+- [Centennial High School](Centennial_High_School.md) grade 1
+- [Central Memorial High School](Central_Memorial_High_School.md) grade 1
+- [Chaparral School](Chaparral_School.md) grade 1
+- [Chris Akkerman School](Chris_Akkerman_School.md) grade 1
+- [Christ the King School](Christ_the_King_School.md) grade 1
+- [Christine Meikle School](Christine_Meikle_School.md) grade 1
+- [Citadel Park School](Citadel_Park_School.md) grade 1
+- [Clarence Sansom School](Clarence_Sansom_School.md) grade 1
+- [Clear Water Academy](Clear_Water_Academy.md) grade 0
+- [Colonel Irvine School](Colonel_Irvine_School.md) grade 1
+- [Colonel J. Fred Scott School](Colonel_J._Fred_Scott_School.md) grade 1
+- [Connaught School](Connaught_School.md) grade 1
+- [Connect Charter School](Connect_Charter_School.md) grade 0
+- [Coventry Hills School](Coventry_Hills_School.md) grade 1
+- [Cranston School](Cranston_School.md) grade 1
+- [Crescent Heights High School](Crescent_Heights_High_School.md) grade 1
+- [Dalhousie School](Dalhousie_School.md) grade 1
+- [David Thompson School](David_Thompson_School.md) grade 1
+- [Deer Run School](Deer_Run_School.md) grade 1
+- [Douglas Harkness School](Douglas_Harkness_School.md) grade 1
+- [Dr. E. P. Scarlett High School](Dr._E._P._Scarlett_High_School.md) grade 1
+- [Dr. Freda Miller School](Dr._Freda_Miller_School.md) grade 1
+- [Dr. George Stanley School](Dr._George_Stanley_School.md) grade 1
+- [Dr. Gladys McKelvie Egbert School](Dr._Gladys_McKelvie_Egbert_School.md) grade 1
+- [Dr. Gordon Higgins School](Dr._Gordon_Higgins_School.md) grade 1
+- [Dr. J. K. Mulloy School](Dr._J._K._Mulloy_School.md) grade 1
+- [Dr. Martha Cohen School](Dr._Martha_Cohen_School.md) grade 1
+- [Dr. Oakley School](Dr._Oakley_School.md) grade 1
+- [Dr. Roberta Bondar School](Dr._Roberta_Bondar_School.md) grade 1
+- [Edge School](Edge_School.md) grade 0
+- [Edgemont School](Edgemont_School.md) grade 1
+- [Elbow Park School](Elbow_Park_School.md) grade 1
+- [Elboya School](Elboya_School.md) grade 1
+- [Ernest Manning High School](Ernest_Manning_High_School.md) grade 1
+- [Ernest Morrow School](Ernest_Morrow_School.md) grade 1
+- [Evergreen School](Evergreen_School.md) grade 1
+- [École Notre-Dame-de-la-Paix](École_Notre-Dame-de-la-Paix.md) grade 0
+- [École Sainte-Marguerite-Bourgeoys](École_Sainte-Marguerite-Bourgeoys.md) grade 0
+- [École Terre des Jeunes](École_Terre_des_Jeunes.md) grade 0
+- [École de la Mosaïque](École_de_la_Mosaïque.md) grade 0
+- [École de la Rose Sauvage](École_de_la_Rose_Sauvage.md) grade 0
+- [École de la Source](École_de_la_Source.md) grade 0
+- [Falconridge School](Falconridge_School.md) grade 1
+- [Father Lacombe High School](Father_Lacombe_High_School.md) grade 1
+- [Fish Creek School](Fish_Creek_School.md) grade 1
+- [Forest Lawn High School](Forest_Lawn_High_School.md) grade 1
+- [Foundations for the Future Charter Academy](Foundations_for_the_Future_Charter_Academy.md) grade 0
+- [Georges P. Vanier School](Georges_P._Vanier_School.md) grade 1
+- [Glamorgan School](Glamorgan_School.md) grade 1
+- [Glenbrook School](Glenbrook_School.md) grade 1
+- [Glendale School](Glendale_School.md) grade 1
+- [Glenmeadows School](Glenmeadows_School.md) grade 1
+- [Glenmore Christian Academy](Glenmore_Christian_Academy.md) grade 0
+- [Guy Weadick School](Guy_Weadick_School.md) grade 1
+- [H. D. Cartwright School](H._D._Cartwright_School.md) grade 1
+- [Hawkwood School](Hawkwood_School.md) grade 1
+- [Haysboro School](Haysboro_School.md) grade 1
+- [Henry Wise Wood High School](Henry_Wise_Wood_High_School.md) grade 1
+- [Highwood School](Highwood_School.md) grade 1
+- [Hillhurst School](Hillhurst_School.md) grade 1
+- [Holy Cross School](Holy_Cross_School.md) grade 1
+- [Holy Name School](Holy_Name_School.md) grade 1
+- [Huntington Hills School](Huntington_Hills_School.md) grade 1
+- [Ian Bazalgette School](Ian_Bazalgette_School.md) grade 1
+- [Jennie Elliott School](Jennie_Elliott_School.md) grade 1
+- [John G. Diefenbaker High School](John_G._Diefenbaker_High_School.md) grade 1
+- [John Paul II School](John_Paul_II_School.md) grade 1
+- [John Ware School](John_Ware_School.md) grade 1
+- [Keeler School](Keeler_School.md) grade 1
+- [Kenneth D. Taylor School](Kenneth_D._Taylor_School.md) grade 1
+- [King George School](King_George_School.md) grade 1
+- [Kingsland School](Kingsland_School.md) grade 1
+- [Langevin School](Langevin_School.md) grade 1
+- [Le Roi Daniels School](Le_Roi_Daniels_School.md) grade 1
+- [Lester B. Pearson High School](Lester_B._Pearson_High_School.md) grade 1
+- [Lord Beaverbrook High School](Lord_Beaverbrook_High_School.md) grade 1
+- [Lord Shaughnessy High School](Lord_Shaughnessy_High_School.md) grade 1
+- [Louis Riel School](Louis_Riel_School.md) grade 1
+- [Lycée Louis Pasteur](Lycée_Louis_Pasteur.md) grade 0
+- [Manmeet Singh Bhullar School](Manmeet_Singh_Bhullar_School.md) grade 1
+- [Maple Ridge School](Maple_Ridge_School.md) grade 1
+- [Marion Carson School](Marion_Carson_School.md) grade 1
+- [Marlborough School](Marlborough_School.md) grade 1
+- [Master’s Academy & College](Master’s_Academy_&_College.md) grade 0
+- [McKenzie Towne School](McKenzie_Towne_School.md) grade 1
+- [Midnapore School](Midnapore_School.md) grade 1
+- [Monsignor J. S. Smith School](Monsignor_J._S._Smith_School.md) grade 1
+- [Monterey Park School](Monterey_Park_School.md) grade 1
+- [Mount Royal School](Mount_Royal_School.md) grade 1
+- [Mountain Park School](Mountain_Park_School.md) grade 1
+- [New Brighton School](New_Brighton_School.md) grade 1
+- [Nickle School](Nickle_School.md) grade 1
+- [North Haven School](North_Haven_School.md) grade 1
+- [North Point School for Boys](North_Point_School_for_Boys.md) grade 0
+- [Northern Lights School](Northern_Lights_School.md) grade 1
+- [Nose Creek School](Nose_Creek_School.md) grade 1
+- [Olympic Heights School](Olympic_Heights_School.md) grade 1
+- [Our Lady of Peace School](Our_Lady_of_Peace_School.md) grade 1
+- [Our Lady of the Assumption School](Our_Lady_of_the_Assumption_School.md) grade 1
+- [Panorama Hills School](Panorama_Hills_School.md) grade 1
+- [Parkdale School](Parkdale_School.md) grade 1
+- [Penbrooke Meadows School](Penbrooke_Meadows_School.md) grade 1
+- [Peter Lougheed School](Peter_Lougheed_School.md) grade 1
+- [Piitoayis Family School](Piitoayis_Family_School.md) grade 1
+- [Piitoayis Family School](Piitoayis_Family_School.md) grade 1
+- [Prince of Wales School](Prince_of_Wales_School.md) grade 1
+- [Queen Elizabeth High School](Queen_Elizabeth_High_School.md) grade 1
+- [Radisson Park School](Radisson_Park_School.md) grade 1
+- [Ranchlands School](Ranchlands_School.md) grade 1
+- [Renert School](Renert_School.md) grade 0
+- [Rideau Park School](Rideau_Park_School.md) grade 1
+- [Riverbend School](Riverbend_School.md) grade 1
+- [Robert Thirsk High School](Robert_Thirsk_High_School.md) grade 1
+- [Rosedale School](Rosedale_School.md) grade 1
+- [Rosscarrock School](Rosscarrock_School.md) grade 1
+- [Royal Oak School](Royal_Oak_School.md) grade 1
+- [Rundle College](Rundle_College.md) grade 0
+- [Saddle Ridge School](Saddle_Ridge_School.md) grade 1
+- [Sam Livingston School](Sam_Livingston_School.md) grade 1
+- [Scenic Acres School](Scenic_Acres_School.md) grade 1
+- [Senator Patrick Burns School](Senator_Patrick_Burns_School.md) grade 1
+- [Simon Fraser School](Simon_Fraser_School.md) grade 1
+- [Sir John A. Macdonald School](Sir_John_A._Macdonald_School.md) grade 1
+- [Sir Wilfrid Laurier School](Sir_Wilfrid_Laurier_School.md) grade 1
+- [Somerset School](Somerset_School.md) grade 1
+- [Southwood School](Southwood_School.md) grade 1
+- [St. Alphonsus School](St._Alphonsus_School.md) grade 1
+- [St. Ambrose School](St._Ambrose_School.md) grade 1
+- [St. Anne Academic Centre](St._Anne_Academic_Centre.md) grade 1
+- [St. Augustine School](St._Augustine_School.md) grade 1
+- [St. Basil School](St._Basil_School.md) grade 1
+- [St. Bonaventure School](St._Bonaventure_School.md) grade 1
+- [St. Catherine School](St._Catherine_School.md) grade 1
+- [St. Cecilia School](St._Cecilia_School.md) grade 1
+- [St. Dominic School](St._Dominic_School.md) grade 1
+- [St. Elizabeth Seton School](St._Elizabeth_Seton_School.md) grade 1
+- [St. Francis High School](St._Francis_High_School.md) grade 1
+- [St. Gabriel the Archangel School](St._Gabriel_the_Archangel_School.md) grade 1
+- [St. Gerard School](St._Gerard_School.md) grade 1
+- [St. Gregory School](St._Gregory_School.md) grade 1
+- [St. Helena School](St._Helena_School.md) grade 1
+- [St. Isabella School](St._Isabella_School.md) grade 1
+- [St. James School](St._James_School.md) grade 1
+- [St. Jean Brebeuf School](St._Jean_Brebeuf_School.md) grade 1
+- [St. Jerome School](St._Jerome_School.md) grade 1
+- [St. John XXIII School](St._John_XXIII_School.md) grade 1
+- [St. Joseph School](St._Joseph_School.md) grade 1
+- [St. Jude School](St._Jude_School.md) grade 1
+- [St. Kateri Tekakwitha School](St._Kateri_Tekakwitha_School.md) grade 1
+- [St. Luke School](St._Luke_School.md) grade 1
+- [St. Margaret School](St._Margaret_School.md) grade 1
+- [St. Maria Goretti School](St._Maria_Goretti_School.md) grade 1
+- [St. Martha School](St._Martha_School.md) grade 1
+- [St. Matthew School](St._Matthew_School.md) grade 1
+- [St. Michael School](St._Michael_School.md) grade 1
+- [St. Monica School](St._Monica_School.md) grade 1
+- [St. Patrick School](St._Patrick_School.md) grade 1
+- [St. Pius X School](St._Pius_X_School.md) grade 1
+- [St. Rita School](St._Rita_School.md) grade 1
+- [St. Rose of Lima School](St._Rose_of_Lima_School.md) grade 1
+- [St. Rupert School](St._Rupert_School.md) grade 1
+- [St. Sebastian School](St._Sebastian_School.md) grade 1
+- [St. Stephen School](St._Stephen_School.md) grade 1
+- [St. Sylvester School](St._Sylvester_School.md) grade 1
+- [St. Timothy School](St._Timothy_School.md) grade 0
+- [St. Vincent de Paul School](St._Vincent_de_Paul_School.md) grade 1
+- [St. William School](St._William_School.md) grade 1
+- [Stanley Jones School](Stanley_Jones_School.md) grade 1
+- [Strathcona-Tweedsmuir School](Strathcona-Tweedsmuir_School.md) grade 0
+- [Sunalta School](Sunalta_School.md) grade 1
+- [Sundance School](Sundance_School.md) grade 1
+- [Taradale School](Taradale_School.md) grade 1
+- [Ted Harrison School](Ted_Harrison_School.md) grade 1
+- [Thomas B. Riley School](Thomas_B._Riley_School.md) grade 1
+- [Thorncliffe School](Thorncliffe_School.md) grade 1
+- [Tom Baines School](Tom_Baines_School.md) grade 1
+- [Tsuu T'ina Junior Senior High School](Tsuu_T'ina_Junior_Senior_High_School.md) grade 0
+- [Tuscany School](Tuscany_School.md) grade 1
+- [Valley Creek School](Valley_Creek_School.md) grade 1
+- [Vanier School](Vanier_School.md) grade 1
+- [Varsity Acres School](Varsity_Acres_School.md) grade 1
+- [Vincent Massey School](Vincent_Massey_School.md) grade 1
+- [Vista Heights School](Vista_Heights_School.md) grade 1
+- [W. O. Mitchell School](W._O._Mitchell_School.md) grade 1
+- [Webber Academy](Webber_Academy.md) grade 0
+- [West Dalhousie School](West_Dalhousie_School.md) grade 1
+- [West Island College](West_Island_College.md) grade 0
+- [West Ridge School](West_Ridge_School.md) grade 1
+- [West Springs School](West_Springs_School.md) grade 1
+- [Western Canada High School](Western_Canada_High_School.md) grade 1
+- [Westgate School](Westgate_School.md) grade 1
+- [Westmount Charter School](Westmount_Charter_School.md) grade 0
+- [Wildwood School](Wildwood_School.md) grade 1
+- [William Aberhart High School](William_Aberhart_High_School.md) grade 1
+- [William D. Pratt School](William_D._Pratt_School.md) grade 1
+- [Willow Park School](Willow_Park_School.md) grade 1
+- [Wilma Hansen School](Wilma_Hansen_School.md) grade 1
+- [Woodbine School](Woodbine_School.md) grade 1
+- [Woodlands School](Woodlands_School.md) grade 1

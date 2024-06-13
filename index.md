@@ -27,6 +27,7 @@ Know that other diseases are airborne too: Measles (studies [1](https://www.ncbi
 
 # Alberta School Districts:
 
+- [Calgary](Calgary/): 231 schools
 - [Edmonton](Edmonton/): 266 schools 
 - Other cities, areas, and school districts to do.
 
