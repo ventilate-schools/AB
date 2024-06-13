@@ -1,0 +1,32 @@
+---
+layout: page
+title: Ochre Park School
+---
+# Navigation
+
+[[All countries/states/provinces]](../../..) > [[All Alberta Areas/Cities]](../..) > [[All In Sturgeon]](..)
+
+# Ochre Park School (Sturgeon)
+
+**Address**: 5124 53 Street, Redwater, AB T0A 2W0
+
+**Phone**: 780-942-2901
+
+**Website**: <http://www.ochreparkschool.ca>
+
+**School's overall airborne virus protection grade (0-5)**: 0
+
+**Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
+
+**School's policy on Ventilation**: TODO
+
+**School's Ventilation Work Completion**: TODO
+
+**School's Air-Purification**: TODO
+
+**School's CO2 monitoring to actively drive ventilation and filtration**: TODO
+
+**School's Wikidata URL**: TODO
+
+
+[Edit this page](https://github.com/ventilate-schools/AB/edit/main/./Sturgeon/Ochre_Park_School.md). See also [rules for contribution](../../../contribution-rules/)

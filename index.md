@@ -27,9 +27,45 @@ Know that other diseases are airborne too: Measles (studies [1](https://www.ncbi
 
 # Alberta School Districts:
 
-- [Calgary](Calgary/): 231 schools
-- [Edmonton](Edmonton/): 266 schools 
-- Other cities, areas, and school districts to do.
+- City of [Calgary](Calgary/): 231 schools
+- City of [Edmonton](Edmonton/): 266 schools
+- [Fort McMurray ](Fort_McMurray_/): 30 schools
+- [Livingstone Range](Livingstone_Range/): 15 schools
+- [Grande Prairie](Grande_Prairie/): 19 schools
+- [Palliser](Palliser/): 19 schools
+- [Foothills](Foothills/): 15 schools
+- [Northland](Northland/): 21 schools
+- [Fort McMurray](Fort_McMurray/): 22 schools
+- [Peace Wapiti](Peace_Wapiti/): 21 schools
+- [Prarie Rose](Prarie_Rose/): 13 schools
+- [Red Deer Catholic Regional](Red_Deer_Catholic_Regional/): 15 schools
+- [Holy Family Catholic Regional](Holy_Family_Catholic_Regional/): 8 schools
+- [Wild Rose](Wild_Rose/): 18 schools
+- [Rocky View](Rocky_View/): 18 schools
+- [St. Albert](St._Albert/): 31 schools
+- [Sturgeon](Sturgeon/): 14 schools
+- [Wolf Creek](Wolf_Creek/): 19 schools
+- [Battle River](Battle_River/): 51 schools
+- [Elk Island](Elk_Island/): 28 schools
+- [Golden Hills](Golden_Hills/): 18 schools
+- [Buffalo Trail](Buffalo_Trail/): 38 schools
+- [Clearview](Clearview/): 16 schools
+- [Fort Vermilion](Fort_Vermilion/): 12 schools
+- [St. Paul](St._Paul/): 18 schools
+- [Northern Lights](Northern_Lights/): 20 schools
+- [East Central Alberta Catholic](East_Central_Alberta_Catholic/): 9 schools
+- [Canadian Rockies](Canadian_Rockies/): 10 schools
+- [Lakeland Catholic](Lakeland_Catholic/): 13 schools
+- [Grande Yellowhead](Grande_Yellowhead/): 11 schools
+- [Horizon](Horizon/): 16 schools
+- [Lethbridge](Lethbridge/): 18 schools
+- [Lloydminster](Lloydminster/): 9 schools
+- [Northern Gateway](Northern_Gateway/): 13 schools
+- [Prairie Land](Prairie_Land/): 11 schools
+- [Red Deer](Red_Deer/): 18 schools
+- [Westwind](Westwind/): 14 schools
+- [Wetaskiwin Region](Wetaskiwin_Region/): 14 schools
+
 
 # Site ownership
 
