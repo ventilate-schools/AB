@@ -10,9 +10,9 @@ title: Capilano School
 
 **Type**: Public
 
-**Address**: TODO
+**Address**: 10720 54 St NW, Edmonton, AB T6A 2H9, Canada
 
-**Phone**: TODO
+**Phone**: +1 780-466-3416
 
 **Website**: TODO
 
@@ -34,3 +34,8 @@ title: Capilano School
 
 
 [Edit this page](https://github.com/ventilate-schools/AB/edit/main/./Edmonton/Capilano_School.md). See also [rules for contribution](../../../contribution-rules/)
+
+{::comment}AI Change Log
+Updated address on 2024-06-14
+Added phone number on 2024-06-14
+{:/comment}

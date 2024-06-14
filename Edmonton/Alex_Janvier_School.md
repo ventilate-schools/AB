@@ -10,9 +10,9 @@ title: Alex Janvier School
 
 **Type**: Public
 
-**Address**: TODO
+**Address**: 9535 167 St NW, Edmonton, AB T5P 3W7
 
-**Phone**: TODO
+**Phone**: (780) 484-3585
 
 **Website**: TODO
 
@@ -34,3 +34,8 @@ title: Alex Janvier School
 
 
 [Edit this page](https://github.com/ventilate-schools/AB/edit/main/./Edmonton/Alex_Janvier_School.md). See also [rules for contribution](../../../contribution-rules/)
+
+{::comment}AI Change Log
+2024-06-14: Added address
+2024-06-14: Added phone number
+{:/comment}

@@ -10,9 +10,9 @@ title: John Paul I School
 
 **Type**: Public
 
-**Address**: TODO
+**Address**: 5675 23 Ave NW, Edmonton, AB T6L 6P2, Canada
 
-**Phone**: TODO
+**Phone**: +1 780-450-6860
 
 **Website**: TODO
 
@@ -34,3 +34,8 @@ title: John Paul I School
 
 
 [Edit this page](https://github.com/ventilate-schools/AB/edit/main/./Edmonton/John_Paul_I_School.md). See also [rules for contribution](../../../contribution-rules/)
+
+{::comment}AI Change Log
+2024-06-14: Added phone number
+2024-06-14: Updated address information.
+{:/comment}

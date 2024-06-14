@@ -10,7 +10,7 @@ title: Emily Murphy School
 
 **Type**: Public
 
-**Address**: TODO
+**Address**: 9755 50 St NW, Edmonton, AB T6A 2C5
 
 **Phone**: TODO
 
@@ -34,3 +34,7 @@ title: Emily Murphy School
 
 
 [Edit this page](https://github.com/ventilate-schools/AB/edit/main/./Edmonton/Emily_Murphy_School.md). See also [rules for contribution](../../../contribution-rules/)
+
+{::comment}AI Change Log
+2024-06-14: Added address
+{:/comment}

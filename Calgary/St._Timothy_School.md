@@ -10,9 +10,9 @@ title: St. Timothy School
 
 **Type**: Separate/Catholic
 
-**Address**: TODO
+**Address**: 501 Sunset Drive, Cochrane, AB T4C 2K4
 
-**Phone**: TODO
+**Phone**: (403) 500-2106
 
 **Website**: TODO
 
@@ -34,3 +34,8 @@ title: St. Timothy School
 
 
 [Edit this page](https://github.com/ventilate-schools/AB/edit/main/./Calgary/St._Timothy_School.md). See also [rules for contribution](../../../contribution-rules/)
+
+{::comment}AI Change Log
+2024-06-14: Added phone number 
+2024-06-14: Added address
+{:/comment}

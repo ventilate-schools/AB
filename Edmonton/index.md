@@ -56,7 +56,6 @@ There has been similar work done for Catholic schools in Edmonton, and we're try
 - [Avonmore School](Avonmore_School.md) grade 1
 - [Balwin School](Balwin_School.md) grade 1
 - [Bannerman School](Bannerman_School.md) grade 1
-- [Baranow School](Baranow_School.md) grade 0
 - [Belgravia School](Belgravia_School.md) grade 1
 - [Belmont School](Belmont_School.md) grade 1
 - [Belvedere School](Belvedere_School.md) grade 1

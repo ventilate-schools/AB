@@ -10,9 +10,9 @@ title: Aleda Patterson School
 
 **Type**: Public
 
-**Address**: TODO
+**Address**: 9220 165 St NW, Edmonton, AB T5R 2S8
 
-**Phone**: TODO
+**Phone**: (780) 484-3585
 
 **Website**: TODO
 
@@ -34,3 +34,8 @@ title: Aleda Patterson School
 
 
 [Edit this page](https://github.com/ventilate-schools/AB/edit/main/./Edmonton/Aleda_Patterson_School.md). See also [rules for contribution](../../../contribution-rules/)
+
+{::comment}AI Change Log
+2024-06-14: Added address
+2024-06-14: Added phone number
+{:/comment}

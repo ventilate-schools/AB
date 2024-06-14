@@ -10,9 +10,9 @@ title: École de la Mosaïque
 
 **Type**: Francophone
 
-**Address**: TODO
+**Address**: 1505 90 Ave SW, Calgary, AB T2V 0L4
 
-**Phone**: TODO
+**Phone**: (403) 777-6100
 
 **Website**: TODO
 
@@ -34,3 +34,9 @@ title: École de la Mosaïque
 
 
 [Edit this page](https://github.com/ventilate-schools/AB/edit/main/./Calgary/École_de_la_Mosaïque.md). See also [rules for contribution](../../../contribution-rules/)
+
+{::comment}AI Change Log
+- 2024-06-14: Added address
+- 2024-06-14: Added phone number
+{:/comment}
+
