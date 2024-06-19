@@ -38,7 +38,6 @@ title: Schools in Calgary
 - [Calgary French & International School](Calgary_French_&_International_School.md) grade 0
 - [Calgary Girls' School](Calgary_Girls'_School.md) grade 0
 - [Calgary Islamic School](Calgary_Islamic_School.md) grade 0
-- [Calgary Science School](Calgary_Science_School.md) grade 0
 - [Calgary Waldorf School](Calgary_Waldorf_School.md) grade 0
 - [Cambrian Heights School](Cambrian_Heights_School.md) grade 1
 - [Captain John Palliser School](Captain_John_Palliser_School.md) grade 1
