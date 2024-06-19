@@ -8,6 +8,8 @@ title: Connect Charter School
 
 # Connect Charter School (Calgary)
 
+(formerly Calgary Science School)
+
 **Type**: Charter
 
 **Address**: 5915 Lewis Drive SW, Calgary, AB T3E 5Z4
