@@ -18,6 +18,10 @@ title: Branton School
 
 **Student Count**: TODO
 
+**Investigation**
+
+A 50-page RECAPP Facility Evaluation Report for Branton by Golder Associates Ltd in 2009 detail quite a bit. Ventilation is covered too on many pages: <http://www.infrastructure.alberta.ca/content/doctype354/production/reports/School/B2547A.pdf> 
+
 **School's overall airborne virus protection grade (0-5)**: 1
 
 **Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
