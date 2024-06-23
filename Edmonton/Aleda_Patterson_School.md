@@ -18,11 +18,11 @@ title: Aleda Patterson School
 
 **Student Count**: TODO
 
-**School's overall airborne virus protection grade (0-5)**: 0
+**School's overall airborne virus protection grade (0-5)**: 3
 
 **Discord, Facebook, or WhatsApp group for discovery/advocacy for THIS school**: TODO
 
-**School's policy on Ventilation**: TODO
+**School's policy on Ventilation**: https://files.epsb.ca/ventilation/805.pdf
 
 **School's Ventilation Work Completion**: TODO
 
